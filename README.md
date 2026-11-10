@@ -5,14 +5,14 @@ Welcome to the Astrial Tutorials repository. This repository contains various tu
 To get started with the tutorials, you will need to clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/System-Electronics/astrial_tutorials.git
+git clone https://github.com/System-Electronics/astrial-tutorials.git
 ```
 
 Each tutorial is self-contained within its own folder. Navigate to the folder of the tutorial you want to start with and follow the instructions in the README.md file within that folder.
 
 ### Build Yocto image
 Follow the official System Elecronics guide to build the Astrial Yocto image:
-https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-YOCTO-INSTALL.md
+https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/kirkstone/ASTRIAL-YOCTO-INSTALL.md
 
 ### Flash SD Card
 Flash the SD Card using the following command (replace \<sdx\> with the name of your SD Card):  
